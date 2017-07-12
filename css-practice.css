@@ -1,0 +1,19 @@
+body
+{
+background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  color:white;
+font-family: verdana;
+
+}
+h2
+{
+  color: fuchsia;
+}
+p
+
+  color:white;
+}
+li
+{background:pink;
+color:fuchsia;
+}
