@@ -1,6 +1,6 @@
 body{
   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
-  
+
 font-family: verdana;
 
 }
@@ -8,11 +8,11 @@ h2
 {
   color: fuchsia;
 }
-p
+p{
 
-  color:white;
+  color: white;
 }
 li
-{background:pink;
+{
 color:fuchsia;
 }
